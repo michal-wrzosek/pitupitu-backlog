@@ -1,4 +1,4 @@
-# [pitupitu.chat](pitupitu.chat) backlog
+# [pitupitu.chat](https://pitupitu.chat) backlog
 
 This repository is used to keep track of all ideas and currently developed features.
 
